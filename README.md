@@ -1,4 +1,4 @@
-# [Amanda Almeida ] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Amanda Almeida ] <img width="50" height="80" alt="image" src="https://github.com/user-attachments/assets/fa61323a-7b72-4482-8206-3ee44fbce435" />  <img width="50" height="80" alt="image" src="https://static.vecteezy.com/system/resources/previews/014/179/737/original/cute-black-cat-png.png" />  
 
 Eu sou <strong > Amanda</strong>, <strong>sou estudante de ADS da faculdade SENAC</strong> 👨🏻‍💻 
 
