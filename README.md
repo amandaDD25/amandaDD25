@@ -1,6 +1,6 @@
 # [Amanda Almeida ] <img width="50" height="80" alt="image" src="https://github.com/user-attachments/assets/fa61323a-7b72-4482-8206-3ee44fbce435" />  <img width="50" height="80" alt="image" src="https://static.vecteezy.com/system/resources/previews/014/179/737/original/cute-black-cat-png.png" />  
 
-Eu sou <strong > Amanda</strong>, <strong>sou estudante de ADS da faculdade SENAC</strong> 👨🏻‍💻 
+Eu amo <strong > coffe, tenho paixão por role de moto</strong>, <strong>sou estudante de ADS da faculdade SENAC</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong> as linguagens de programação</strong> 
 - 💬 Pergunte-me sobre: <strong> Viagem e role de moto</strong>
