@@ -1,10 +1,11 @@
 # [Amanda Almeida ] <img width="50" height="80" alt="image" src="https://github.com/user-attachments/assets/fa61323a-7b72-4482-8206-3ee44fbce435" />  <img width="50" height="80" alt="image" src="https://static.vecteezy.com/system/resources/previews/014/179/737/original/cute-black-cat-png.png" />  
 
-Eu amo <strong > coffe,tenho paixão por role de moto</strong>,<strong>sou estudante de ADS da faculdade SENAC</strong> 👨🏻‍💻 
+👋 Olá, eu sou a Amanda Almeida <strong >Apaixonada por café e por um bom rolê de moto</strong>,<strong>🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong> as linguagens de programação</strong> 
-- 💬 Pergunte-me sobre: <strong> Viagem e role de moto</strong>
-- 📣 Nós podemos falar em: <strong>português e Inglês</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Linguagens de programação e práticas de desenvolvimento front-end e back-end.</strong> 
+- 💬 Pergunte-me sobre: <strong>Viagens, motos e tecnologia!</strong>
+- 📣 Nós podemos falar em: <strong>Português 🇧🇷 | Inglês 🇺🇸</strong>
+
 
 <div align="center">
 
